@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehoratiopoetap00wiedgoog_0007.png"; bbox 0 0 1038 1346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 307 373 557 437">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 307 373 557 437">
+     <span class='ocr_line' id='line_1_1' title="bbox 307 373 557 437; baseline -0.004 -29"><span class='ocrx_word' id='word_1_1' title='bbox 307 384 402 419; x_wconf 42' lang='lat' dir='ltr'><em>mm!</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 410 373 497 436; x_wconf 33' lang='grc' dir='ltr'><em>μίμῳ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 522 383 557 437; x_wconf 36' lang='lat' dir='ltr'><em>&lt;ff</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 300 426 609 479">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 300 426 609 479">
+     <span class='ocr_line' id='line_1_2' title="bbox 300 426 609 479; baseline 0 -27"><span class='ocrx_word' id='word_1_4' title='bbox 300 446 304 452; x_wconf 51' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 315 426 495 475; x_wconf 33' lang='lat' dir='ltr'><em>4596&amp;wa</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 508 431 609 479; x_wconf 51' lang='lat' dir='ltr'><em>damah.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 734 88 837 1145">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 734 88 837 1145">
+     <span class='ocr_line' id='line_1_3' title="bbox 734 88 837 1145; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 734 88 837 1145; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
